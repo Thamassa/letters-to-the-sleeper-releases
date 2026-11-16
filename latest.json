@@ -1,12 +1,16 @@
 {
- "version": "1.0.42",
- "pck_url": "https://github.com/Thamassa/letters-to-the-sleeper-releases/releases/download/v1.0.42/Dreamwalker.pck",
- "sha256": "9212cae1e13065d52fe767902fe27dbca40f3089eb9216473a7b598986f6f1ba",
- "size": 2429672,
+ "version": "1.0.43",
+ "pck_url": "https://github.com/Thamassa/letters-to-the-sleeper-releases/releases/download/v1.0.43/LettersToTheSleeper.pck",
+ "sha256": "4c3cdcfa7b284744c0b35d17519b83279a3e33ce9f8fec30da5a74adb8142e04",
+ "size": 2461748,
  "notes_tr": [
-  "Oyun güncellendi."
+  "Letters To The Sleeper adı tüm projede standartlaştırıldı.",
+  "Önceki kayıtlar korunur.",
+  "README görselleri yenilendi."
  ],
  "notes_en": [
-  "Oyun güncellendi."
+  "Letters To The Sleeper adı tüm projede standartlaştırıldı.",
+  "Önceki kayıtlar korunur.",
+  "README görselleri yenilendi."
  ]
 }
