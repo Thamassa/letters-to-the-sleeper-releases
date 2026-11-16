@@ -1,12 +1,12 @@
 {
- "version": "1.0.39",
- "pck_url": "https://github.com/Thamassa/letters-to-the-sleeper-releases/releases/download/v1.0.39/Dreamwalker.pck",
- "sha256": "4eb052b85e1889c31d294cce3cac888ae88b21b0e52470f1cf420437f6a18a65",
- "size": 2421688,
+ "version": "1.0.40",
+ "pck_url": "https://github.com/Thamassa/letters-to-the-sleeper-releases/releases/download/v1.0.40/Dreamwalker.pck",
+ "sha256": "bf86930a28444275a1cfd2220fee80f9a71d33a309041ececaf7407ade9989b5",
+ "size": 2422792,
  "notes_tr": [
-  "Hazır kostümler güncellendi."
+  "Oyun güncellendi."
  ],
  "notes_en": [
-  "Hazır kostümler güncellendi."
+  "Oyun güncellendi."
  ]
 }
