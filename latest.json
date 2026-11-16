@@ -1,16 +1,12 @@
 {
- "version": "1.0.37",
- "pck_url": "https://github.com/Thamassa/letters-to-the-sleeper-releases/releases/download/v1.0.37/Dreamwalker.pck",
- "sha256": "e3a69ca3ac7873b427bff0ecdc114bf2bd56d1f6e1368f919b0be1f0e873d825",
- "size": 2382260,
+ "version": "1.0.39",
+ "pck_url": "https://github.com/Thamassa/letters-to-the-sleeper-releases/releases/download/v1.0.39/Dreamwalker.pck",
+ "sha256": "c90dd33b6ee6ca4b803b1e3c9da4d571b8cf43a5b20e20f8e299776a8ed25ea5",
+ "size": 2404020,
  "notes_tr": [
-  "Altın Düş.",
-  "Çatı Katı'nda rahat iniş.",
-  "Eğilme pozu yenilendi."
+  "Hazır kostümler güncellendi."
  ],
  "notes_en": [
-  "Altın Düş.",
-  "Çatı Katı'nda rahat iniş.",
-  "Eğilme pozu yenilendi."
+  "Hazır kostümler güncellendi."
  ]
 }
